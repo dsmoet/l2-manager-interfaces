@@ -1,6 +1,10 @@
-# Interfaces para L2 Manager by Moet
+# Interfaces de Lineage II para la comunidad
 
-Descargas de las interfaces que usa **L2 Manager** para Lineage II. La app las baja sola desde acá, comprueba su huella SHA-256 y las deja listas en la biblioteca. No hace falta descargarlas a mano.
+Interfaces de Lineage II de libre descarga, reunidas para la comunidad y publicadas con autorización de sus autores.
+
+La forma más simple de usarlas es **[L2 Manager](https://l2-manager.com)**, el gestor de interfaces para Lineage II (Interlude y Classic). La app las baja sola desde acá, comprueba su huella SHA-256, las aplica con backup y te deja volver al juego original en un clic.
+
+**Descarga L2 Manager en [l2-manager.com](https://l2-manager.com).**
 
 Este repo no tiene código: solo el índice `interfaces.json` y los paquetes `.zip`, que están en [Releases](../../releases).
 
